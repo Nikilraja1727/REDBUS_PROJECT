@@ -9,11 +9,8 @@ A simple Streamlit web application that simulates a bus booking system using web
   
 🚀 Tech Stack
 
-*Frontend: Streamlit
-
-*Backend: Python, SQL
-
-*Web Scraping: Selenium
-
-*Database: MySQL
+* Frontend: Streamlit
+* Backend: Python, SQL
+* Web Scraping: Selenium
+* Database: MySQL
 
